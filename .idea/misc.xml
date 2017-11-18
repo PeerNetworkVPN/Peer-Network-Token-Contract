@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectPlainTextFileTypeManager">
+    <file url="file://$PROJECT_DIR$/build/contracts/BytesUtils.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/Crowdsale.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/CrowdsaleToken.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/ERC20.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/Migrations.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/Ownable.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/PeerNetworkToken.json" />
+    <file url="file://$PROJECT_DIR$/build/contracts/SafeMath.json" />
+  </component>
+</project>
